@@ -6,5 +6,5 @@ Mac OS에 Oralce DB를 설치하는 방법은 두 가지가 있다.
 
 해당 포스트는 Docker x Colima 이용법에 대해 설명한다.
 
-1. 먼저 brew를 이용해 Colima를 설치해준다.
+1. 먼저 brew를 이용해 Colima를 설치해준다.  
 ``` brew install colima ```
