@@ -20,7 +20,6 @@ brew install docker
 colima를 x86_64 환경으로 띄워준다.
 ```
 colima start --memory 4 --arch x86_64
-
 ```
 
 `docker ps` 명령어를 사용해 작동 확인
